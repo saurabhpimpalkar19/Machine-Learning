@@ -1,0 +1,28 @@
+# Day 2 – Python Fundamentals for Machine Learning
+
+## Topics Covered
+- Variables and Data Types
+- Lists and Loops
+- Functions
+- Conditional Statements (if-else)
+- Dictionaries
+- Data Classification Logic
+
+## Practice Tasks
+- Salary classification
+- Height classification (Short / Medium / Tall)
+- Feature to label mapping using dictionary
+
+## ML Connection
+These fundamentals are used in:
+- Data preprocessing
+- Feature engineering
+- Classification logic
+- Building ML pipelines
+
+## Tools Used
+- Python
+- VS Code
+
+---
+Learning ML step-by-step with strong foundations.
