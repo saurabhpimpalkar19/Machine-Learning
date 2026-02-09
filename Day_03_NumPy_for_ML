@@ -1,0 +1,35 @@
+# Day 3 – NumPy for Machine Learning
+
+## Objective
+To understand NumPy fundamentals required for machine learning and data preprocessing.
+
+## Topics Covered
+- Introduction to NumPy
+- Creating NumPy arrays (1D & 2D)
+- Array properties (shape, size, dtype)
+- Mathematical operations (mean, max, min, std)
+- Vectorized operations
+- Boolean masking and filtering
+- Indexing and slicing
+- Reshaping arrays for ML models
+
+## Practice Tasks
+- Age and salary dataset creation
+- Feature extraction using NumPy slicing
+- Data filtering using boolean conditions
+- Marks classification task
+
+## ML Connection
+NumPy is the backbone of:
+- Data preprocessing
+- Feature scaling
+- Mathematical computations
+- Model input preparation
+
+## Tools Used
+- Python
+- NumPy
+- VS Code
+
+---
+Learning ML step-by-step with strong numerical foundations.
