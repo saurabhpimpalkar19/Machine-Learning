@@ -1,0 +1,50 @@
+# Day 4 – Pandas for Machine Learning
+
+## Objective
+To learn Pandas fundamentals and advanced data manipulation techniques required for real-world machine learning and data analysis tasks.
+
+## Topics Covered
+
+### Pandas Basics
+- Introduction to Pandas
+- Creating DataFrames
+- Understanding rows and columns
+- Data inspection (`head`, `tail`, `info`, `describe`)
+- Column and row selection
+
+### Data Cleaning
+- Handling missing values (`isnull`, `fillna`)
+- Mean, median, and mode imputation
+- Removing duplicate records
+- Sorting data
+
+### Feature Engineering
+- Creating new columns using `apply` and `lambda`
+- Salary categorization (High / Low)
+- Data transformation techniques
+
+### Data Analysis
+- `value_counts()` for category distribution
+- `groupby()` for aggregated analysis
+- Department-wise salary analysis
+
+## Practice Tasks
+- Student marks classification (Pass / Fail)
+- Salary-based categorization
+- Cleaning real-world style datasets
+- Debugging Pandas `KeyError`
+
+## ML Connection
+Pandas is used for:
+- Data cleaning before model training
+- Feature engineering
+- Exploratory Data Analysis (EDA)
+- Preparing datasets for NumPy & ML models
+
+## Tools Used
+- Python
+- Pandas
+- VS Code
+
+---
+This day focuses on building strong data-handling skills essential for machine learning and data science projects.
