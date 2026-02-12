@@ -1,0 +1,31 @@
+# Day 5 – Data Visualization with Matplotlib
+
+## Objective
+To understand how to visualize data for machine learning analysis.
+
+## Topics Covered
+- Line Plot
+- Bar Chart
+- Histogram
+- Scatter Plot
+
+## Concepts Learned
+- Trend analysis
+- Category comparison
+- Distribution analysis
+- Correlation visualization
+
+## ML Connection
+Visualization helps in:
+- Detecting patterns
+- Understanding relationships
+- Identifying outliers
+- Selecting appropriate ML models
+
+## Tools Used
+- Python
+- Matplotlib
+- Pandas
+
+---
+Day 5 focused on understanding data visually before model training.
