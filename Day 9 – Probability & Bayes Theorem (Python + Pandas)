@@ -1,0 +1,133 @@
+📌 Objective
+
+To understand Probability concepts using Python and Pandas, including:
+
+Classical Probability
+
+Conditional Probability
+
+Bayes Theorem
+
+Dice & Cards probability
+
+Real-world data interpretation
+
+This day focuses on thinking like a Data Analyst / ML Engineer.
+
+🧠 Topics Covered
+1️⃣ Classical Probability
+
+Sample space
+
+Favorable outcomes
+
+Probability formula
+
+𝑃
+(
+𝐴
+)
+=
+Favorable outcomes
+Total outcomes
+P(A)=
+Total outcomes
+Favorable outcomes
+	​
+
+2️⃣ Conditional Probability
+
+Understanding probability given a condition:
+
+𝑃
+(
+𝐴
+∣
+𝐵
+)
+=
+𝑃
+(
+𝐴
+∩
+𝐵
+)
+𝑃
+(
+𝐵
+)
+P(A∣B)=
+P(B)
+P(A∩B)
+	​
+
+3️⃣ Bayes Theorem
+
+Used to reverse conditional probability:
+
+𝑃
+(
+𝐴
+∣
+𝐵
+)
+=
+𝑃
+(
+𝐵
+∣
+𝐴
+)
+×
+𝑃
+(
+𝐴
+)
+𝑃
+(
+𝐵
+)
+P(A∣B)=
+P(B)
+P(B∣A)×P(A)
+	​
+
+🎲 Dice Probability using Pandas
+✔ Problems Solved
+
+Probability of even number
+
+Probability of prime number
+
+Conditional probability:
+
+Even number given number > 3
+
+✔ Key Learning
+
+Creating sample space using DataFrame
+
+Filtering data
+
+Applying probability formulas using data
+
+🃏 Cards Probability using Pandas
+✔ Deck Creation
+
+52-card deck using suits & ranks
+
+Pandas-based sample space generation
+
+✔ Problems Solved
+
+Probability of drawing a Heart
+
+Probability of drawing a Face card
+
+Conditional Probability:
+
+Probability of Face card given Heart
+
+Bayes Theorem:
+
+Probability of Heart given Face card
